@@ -47,7 +47,7 @@ The **Global Superstore Dashboard** is an interactive Power BI report that provi
 - ✅ Invest more in marketing for high-profit items like appliances, copiers, and phones.
 
 
-## Technologies Used
+## Tools Used
 - **Power BI** for data visualization and reporting.
 - **DAX (Data Analysis Expressions)** for calculations and custom metrics.
 - **power Query for data cleaning).
