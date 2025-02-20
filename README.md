@@ -1,6 +1,5 @@
 # Global-Superstore-Analysis
-# Global Superstore Dashboard
-
+#
 ## Overview
 The **Global Superstore Dashboard** is an interactive Power BI report that provides insights into sales performance, profitability, and customer trends across different countries and product categories. It helps businesses identify their most profitable regions, best-selling products, top customers, and areas that need improvement.
 
