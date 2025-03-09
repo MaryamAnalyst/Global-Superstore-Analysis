@@ -52,5 +52,10 @@ The **Global Superstore Dashboard** is an interactive Power BI report that provi
 - **DAX (Data Analysis Expressions)** for calculations and custom metrics.
 - **power Query for data cleaning).
 
+- CONCLUSION
+- By leveraging these insights and recommendations, Global Superstore can maximize profitability, optimize underperforming regions, and enhance customer engagement.
+
+
+
 [click here] https://drive.google.com/file/d/1k_2Y49ujAuQlzN0USzdU7Pi1VPJqN0ab/view?usp=drive_link
 
