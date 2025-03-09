@@ -1,3 +1,12 @@
+
+  ## Table of Contents
+
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- 
 # Global-Superstore-Analysis
 #
 ## Overview
